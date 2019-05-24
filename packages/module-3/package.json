@@ -1,0 +1,18 @@
+{
+  "name": "module-3",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "keywords1",
+    "keyword2"
+  ],
+  "author": "aron",
+  "license": "ISC",
+  "dependencies": {
+    "consola": "^2.6.2"
+  }
+}
