@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "7008aa14ccf6bd0bf44621df9e78e653ac72b6b3",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
 }
