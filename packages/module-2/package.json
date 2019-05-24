@@ -1,15 +1,17 @@
 {
-  "name": "module-1",
+  "name": "module-2",
   "version": "0.0.2",
-  "description": "",
+  "description": "module2 desc",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "test",
+    "module2"
+  ],
+  "author": "chen",
   "license": "ISC",
-  "gitHead": "7008aa14ccf6bd0bf44621df9e78e653ac72b6b3",
   "dependencies": {
     "gulp": "^4.0.2"
   }
