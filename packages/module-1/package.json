@@ -9,8 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "7008aa14ccf6bd0bf44621df9e78e653ac72b6b3",
+  "gitHead": "284680dddbaa070ede93a6189971f6037d779e47",
   "dependencies": {
+    "grunt": "^1.0.4",
     "gulp": "^4.0.2"
   }
 }
