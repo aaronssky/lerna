@@ -1,6 +1,6 @@
 {
   "name": "module-2",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "module2 desc",
   "main": "index.js",
   "scripts": {
