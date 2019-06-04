@@ -1,0 +1,14 @@
+{
+  "name": "@mylocal/module-6",
+  "version": "0.0.2",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "localtest"
+  ],
+  "author": "",
+  "license": "ISC"
+}
